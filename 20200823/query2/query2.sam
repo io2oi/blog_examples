@@ -1,0 +1,5 @@
+@SQ	SN:refseq	LN:480
+@PG	ID:bwa	PN:bwa	VN:0.7.17-r1188	CL:bwa samse ref/reference.fasta query2/query2.sai query2/query2.fq
+seq1	0	refseq	161	37	17M	*	0	0	ATGCGGATTGCCGATTA	IIIIIIIIIIIIIIIII	XT:A:U	NM:i:0	X0:i:1	X1:i:0	XM:i:0	XO:i:0	XG:i:0	MD:Z:17
+seq2	0	refseq	161	37	17M	*	0	0	GTGCGGATTGCCGATTA	IIIIIIIIIIIIIIIII	XT:A:U	NM:i:1	X0:i:1	X1:i:0	XM:i:1	XO:i:0	XG:i:0	MD:Z:0A16
+seq3	0	refseq	161	37	6M2D11M	*	0	0	ATGCGGTGCCGATTAAA	IIIIIIIIIIIIIIIII	XT:A:U	NM:i:2	X0:i:1	X1:i:0	XM:i:0	XO:i:1	XG:i:2	MD:Z:6^AT11
